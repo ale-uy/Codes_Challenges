@@ -1,5 +1,3 @@
-[Lonely Integer problem](https://www.hackerrank.com/challenges/one-week-preparation-kit-lonely-integer/problem)
-
 #!/bin/python3
 
 import math
